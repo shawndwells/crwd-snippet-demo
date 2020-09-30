@@ -1,0 +1,17 @@
+# Mobile menu navigation links
+
+- title: Home
+  url: /
+
+#- title: Docs
+#  url: /docs/installation/
+
+#- title: Blog
+#  url: /blog/
+
+#- title: Changelog
+#  url: /changelog-timeline/
+
+- title: Visit on GitHub
+  url: https://github.com/CrowdStrike/snippets
+  button: success

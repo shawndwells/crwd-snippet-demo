@@ -1,0 +1,44 @@
+- title: Monitoring Disk I/O
+  docs:
+    - display_newly_written_files
+
+- title: Network Related
+  docs:
+    - geoip_connections_excluding_rfc1918_and_loopback
+
+#- title: Getting Started
+#  docs:
+#  - installation
+#  - setup
+#  - navigation
+#  - footer
+#  - posts
+#  - docs
+#  - comments
+#  - analytics
+
+#- title: Theme Features
+#  docs:
+#  - display_newly_written_files
+#  - boxes
+#  - featured
+#  - videos
+#  - faq
+#  - team
+#  - cta
+#  - changelog
+#  - contact
+#  - media
+#  - toc
+#  - alerts
+
+#- title: Customization
+#  docs:
+#  - translation
+#  - customize
+#  - development
+#  - sources
+
+#- title: Help
+#  docs:
+#  - support
